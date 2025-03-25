@@ -62,7 +62,7 @@ footer {
 }
 
 
-.imglogoscuola {
+.imglogo {
     height: 80%;
 }
 
@@ -79,3 +79,42 @@ footer > div {
     display: flex;;
     justify-content: center;
 }
+
+.intro {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenitore {
+    width: 40%;
+    background-color: aqua;
+    height: 35%;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contenitore:hover {
+    background-color: lightsteelblue;
+    transition: 0,3s;
+}
+
+.CV {
+    display: flex;
+    justify-content: center;
+}
+
+
+.curriculum {
+    width: 70%;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.intestazione {
+    text-align: center;
+}
+
