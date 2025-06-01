@@ -233,3 +233,9 @@ a {
     display: flex;
     background-color: lightseagreen;
 }
+
+
+.imgstrada {
+    display: flex;
+    justify-content: space-around;
+}
