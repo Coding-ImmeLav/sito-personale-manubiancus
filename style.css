@@ -97,17 +97,18 @@ footer > div {
 
 .contenitore1 {
     width: 40%;
-    background-image: url(IMG/calcio.jpeg);
+    background-image: url(IMG/basket.jpeg);
     height: 50%;
     margin: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .contenitore2 {
     width: 40%;
-    background-image: url(IMG/basket.jpeg);
-    background-repeat: no-repeat;
+    background-image: url(IMG/calcio.jpeg);
     background-size: cover;
     height: 50%;
     margin: 30px;
